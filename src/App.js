@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.delac.io/"
+            href="https://github.com/Mukona21/react-weather-app-1.git"
             target="_blank"
             rel="noopener noreferrer"
           >
