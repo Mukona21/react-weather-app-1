@@ -15,11 +15,11 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Mutshinye Nethengwe
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/Mukona21/react-weather-app-1.git"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,11 +27,11 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://react-wheather-application.onrender.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            hosted on Netlify
+            hosted on Render
           </a>
         </footer>
       </div>

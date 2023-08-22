@@ -7,3 +7,9 @@
   font-size: 11px;
   margin: 10px 0;
 }
+
+.App {
+  background-image: url("../images/background.jpg");
+  background-size: cover;
+  background-position: center;
+}
